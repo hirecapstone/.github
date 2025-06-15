@@ -2,7 +2,7 @@
    - ### 팀명 : Hire(하이어)
    - ### 작품명 : AI면접관리시스템
 -----------------------------------------------
-<img src="https://github.com/user-attachments/assets/1c4b7507-3bb0-430f-b221-b05f69ff2b60" width="500"/>
+<img src="https://github.com/user-attachments/assets/1c4b7507-3bb0-430f-b221-b05f69ff2b60" width="500"/>.
 ## 🧙🏻‍♂️ 팀원 구성
 - #### **팀장**
   - #### **정원제(2071192)** - 백엔드
